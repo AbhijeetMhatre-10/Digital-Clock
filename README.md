@@ -30,7 +30,7 @@ A simple digital clock made using **HTML**, **CSS**, and **JavaScript**. It disp
 - Real-time updates using setInterval()
 
 ## 👩‍💻 Author
-AbhijeetMhatre-10 (NIckname- DODO)
+AbhijeetMhatre-10 (Nickname- DODO)
 
 ## 📄 License
 This project is open-source and free to use.
