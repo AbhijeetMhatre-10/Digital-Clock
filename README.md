@@ -29,11 +29,6 @@ A simple digital clock made using **HTML**, **CSS**, and **JavaScript**. It disp
 - Styling with Flexbox and CSS media queries
 - Real-time updates using setInterval()
 
-## 💡 Future Improvements (Optional)
-- Add 12-hour/24-hour toggle
-- Dark mode
-- Alarm feature
-
 ## 👩‍💻 Author
 AbhijeetMhatre-10 (NIckname- DODO)
 
